@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/488-sugars
 x-kinRank: "8"
 x-alexaRank: "64898"
 tags: 'SugarSync '
-created: "2018-06-20"
-modified: "2018-06-20"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/sugarsync-/master/_listings/sugarsync-/apis.md
 specificationVersion: "0.14"
 apis:
@@ -358,6 +358,8 @@ x-common:
   url: https://www.sugarsync.com/dev/getting-started.html
 - type: x-glossary
   url: https://www.sugarsync.com/dev/glossary.html
+- type: x-linkedin
+  url: https://www.linkedin.com/company/sugarsync
 - type: x-pricing
   url: https://www.sugarsync.com/
 - type: x-selfservice-registration
