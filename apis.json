@@ -1,33 +1,33 @@
 {
-	"name": "Streadata.io API Gallery - SugarSync ",
-	"description": "This is a repository of sugarsync  APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
-	"image": "http://template.streamdata.gallery/assets/sugarsync-.png",
+	"name": "Streadata.io API Gallery - SugarSync",
+	"description": "This is a repository of sugarsync APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/sugarsync.png",
 	"created": "2018-02-24",
 	"modified": "2018-08-27",
-	"url": "http://sugarsync-.streamdata.gallery/apis.json",
+	"url": "http://sugarsync.streamdata.gallery/apis.json",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "SugarSync ",
-			"x-api-slug": "sugarsync-",
+			"name": "SugarSync",
+			"x-api-slug": "sugarsync",
 			"description": "SugarSync is a cloud file sharing, file sync and online backup service that is simple, powerful and easy to use. Unlike Dropbox, SugarSync enables you to back up your existing folder structure. Try it for FREE for 30 days and get started today!",
 			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/488-sugarsync-.jpg",
 			"humanURL": "http://sugarsync.com",
 			"baseURL": "https://api.sugarsync.com//",
-			"tags": "SugarSync ",
+			"tags": "SugarSync",
 			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/sugarsync-/master/_listings/sugarsync-/openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/sugarsync/master/_listings/sugarsync/openapi.md"
 				}
 			]
 		}
 	],
-	"tags": "SugarSync ",
+	"tags": "SugarSync",
 	"include": [
 		{
-			"name": "SugarSync ",
-			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/sugarsync-/master/_listings/sugarsync-/apis.yaml"
+			"name": "SugarSync",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/sugarsync/master/_listings/sugarsync/apis.yaml"
 		}
 	]
 }
