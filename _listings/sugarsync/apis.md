@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/488-sugars
 x-kinRank: "8"
 x-alexaRank: "64898"
 tags: SugarSync
-created: "2018-08-27"
-modified: "2018-08-27"
+created: "2018-08-31"
+modified: "2018-08-31"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/sugarsync/master/_listings/sugarsync/apis.md
 specificationVersion: "0.14"
 apis:
